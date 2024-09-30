@@ -1,0 +1,13 @@
+This is First Project Of Mext.Js
+First Of All We have create the Enviorment of Next.Js By Using This Methods and Commands.
+For Installation of Next.js  create a folder than open into terminal and type this command
+" npx create-next-app@latest "
+Then press yes yes yes yes yes yes and last one is No
+Then create a folder name or By Default set my-app
+Then All packages install Successfully and installation has been completed
+Tgen change the directory and open defaut folder by using
+" cd my-app "
+Now directory change the folder into my-app then open vs code by code .
+Then open page.tsx file in src/app folder and remove all code into starting dive to end div
+Now write Your code under creating the Function
+For Styling use global.css file
